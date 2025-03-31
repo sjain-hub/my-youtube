@@ -1,0 +1,621 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "RkI1IimgXu0vkQG3VfoLsWInJHc",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "CDYdcWouZwtA1trb9QLXMCyJWqM",
+      "id": "vp_dzqZXgMg",
+      "snippet": {
+        "publishedAt": "2025-03-29T16:01:08Z",
+        "channelId": "UCGwu0nbY2wSkW8N-cghnLpA",
+        "title": "My Biggest Hyperfixation Yet.",
+        "description": "this tiny thing is consuming my entire life...... chiikawa my beloved\nPlease be very respectful when joining any sort of public community. I'm talking BEST BEHAVIOR!!!! DON'T YOU GUYS GO EMBARRASSING ME IN FRONT OF THE CHIIKAWA COMMUNITY!!!!\n▼▼▼▼▼▼▼▼▼\nChiikawa Resources for Beginners: https://pikakirakuzu.com/2024/06/22/resource-chiikawa-fan-resources/\n\n\n✦ The Team ✦\nAdamX: https://twitter.com/AdamEHKS\nBrooskee: https://twitter.com/brooskeeb\nCiara: https://twitter.com/bresnahammy?lang=en\nCheckers: https://twitter.com/chexchess\nCorin: https://www.instagram.com/corinkeen/?hl=en\nColleen: https://bsky.app/profile/solarcitrus.bsky.social\nClaudia: https://bsky.app/profile/hiyfi.bsky.social\nDavidBaronArt: https://twitter.com/DavidBaronArt\nDee Helm: https://twitter.com/DeeRedHelm\nDenny: https://bsky.app/profile/90percentdenny.bsky.social\nDevon: https://www.youtube.com/@devonkong\nDxmnduke: https://bsky.app/profile/dxmnduke.bsky.social\nEman: https://twitter.com/emanx3c\nFawnlouette: https://www.instagram.com/fawnlouette/\nFlippmeister: https://twitter.com/TheFlippmeister\nJRF\nKam: https://twitter.com/dettlefff\nLeslie V\nPinkPapi: https://www.youtube.com/@PinkPapiYouTube\nRocketSockit: https://twitter.com/RocketSockit\nTiffanySeng: https://www.youtube.com/@TiffanySeng\nVijaylante: https://www.instagram.com/vijaylantes\nWillard: https://twitter.com/willardworm\nYin\nZangeiti: https://twitter.com/zangeiti\n------------------------------------------------------------------------------------\nSUBSCRIBE for more animations!\nhttps://www.youtube.com/@jaidenanimations\n\nMERCH:\nhttps://jaidenanimations.com/\n\nTWITTER:\nhttps://twitter.com/JaidenAnimation\n\nINSTAGRAM:\nhttps://instagram.com/jaiden_animations\n\nWanna Send Fanart?\nYou can send it to me through Twitter or Instagram (links above)\n------------------------------------------------------------------------------------\nMusic: nintendo and genshin\n------------------------------------------------------------------------------------\n#jaidenanimations #chiikawa #obsessed #ruiningmylife",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vp_dzqZXgMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vp_dzqZXgMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vp_dzqZXgMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vp_dzqZXgMg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vp_dzqZXgMg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "JaidenAnimations",
+        "tags": [
+          "jaiden",
+          "animations",
+          "jaidenanimation",
+          "jaidenanimations",
+          "animation",
+          "chiikawa",
+          "manga",
+          "anime",
+          "hyperfixation",
+          "japan",
+          "obsessed",
+          "adhd"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "My Biggest Hyperfixation Yet.",
+          "description": "this tiny thing is consuming my entire life...... chiikawa my beloved\nPlease be very respectful when joining any sort of public community. I'm talking BEST BEHAVIOR!!!! DON'T YOU GUYS GO EMBARRASSING ME IN FRONT OF THE CHIIKAWA COMMUNITY!!!!\n▼▼▼▼▼▼▼▼▼\nChiikawa Resources for Beginners: https://pikakirakuzu.com/2024/06/22/resource-chiikawa-fan-resources/\n\n\n✦ The Team ✦\nAdamX: https://twitter.com/AdamEHKS\nBrooskee: https://twitter.com/brooskeeb\nCiara: https://twitter.com/bresnahammy?lang=en\nCheckers: https://twitter.com/chexchess\nCorin: https://www.instagram.com/corinkeen/?hl=en\nColleen: https://bsky.app/profile/solarcitrus.bsky.social\nClaudia: https://bsky.app/profile/hiyfi.bsky.social\nDavidBaronArt: https://twitter.com/DavidBaronArt\nDee Helm: https://twitter.com/DeeRedHelm\nDenny: https://bsky.app/profile/90percentdenny.bsky.social\nDevon: https://www.youtube.com/@devonkong\nDxmnduke: https://bsky.app/profile/dxmnduke.bsky.social\nEman: https://twitter.com/emanx3c\nFawnlouette: https://www.instagram.com/fawnlouette/\nFlippmeister: https://twitter.com/TheFlippmeister\nJRF\nKam: https://twitter.com/dettlefff\nLeslie V\nPinkPapi: https://www.youtube.com/@PinkPapiYouTube\nRocketSockit: https://twitter.com/RocketSockit\nTiffanySeng: https://www.youtube.com/@TiffanySeng\nVijaylante: https://www.instagram.com/vijaylantes\nWillard: https://twitter.com/willardworm\nYin\nZangeiti: https://twitter.com/zangeiti\n------------------------------------------------------------------------------------\nSUBSCRIBE for more animations!\nhttps://www.youtube.com/@jaidenanimations\n\nMERCH:\nhttps://jaidenanimations.com/\n\nTWITTER:\nhttps://twitter.com/JaidenAnimation\n\nINSTAGRAM:\nhttps://instagram.com/jaiden_animations\n\nWanna Send Fanart?\nYou can send it to me through Twitter or Instagram (links above)\n------------------------------------------------------------------------------------\nMusic: nintendo and genshin\n------------------------------------------------------------------------------------\n#jaidenanimations #chiikawa #obsessed #ruiningmylife"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1684982",
+        "likeCount": "204427",
+        "favoriteCount": "0",
+        "commentCount": "13427"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1ZZ9_1IN6TqLBpdrTegxGBefjXo",
+      "id": "yj1Kvhog6PU",
+      "snippet": {
+        "publishedAt": "2025-03-28T14:00:07Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - brighter days ahead",
+        "description": "The official ‘brighter days ahead’ short film by Christian Breslauer and Ariana Grande. \n\nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n\nSeventy years have passed since we last saw Peaches (played by Ariana Grande). Now, she finds herself once again in the waiting room of Brighter Days Inc., but this time for a very different appointment. The company now offers advanced memory restoration, allowing her to revisit a curated selection of moments from her life—both cherished and painful. As Peaches embarks on this immersive journey, we watch her confront and heal certain wounds (personal and professional alike) that have made her who she is today. She reconnects with her younger self who had been patiently in the wings for over a decade, as she works her way through the challenges of fame (she is the daughter of the very famous Brighter Days Inc. founder/doctor), personal sensationalism (resulting in being torn apart by stray cats), and generational trauma. In the end, with the help of her loved ones and art, she is able to come home to herself. She would do anything to experience it all again. However, there’s one catch: once a memory is relived, it is erased forever.\n \nSet against the music of eternal sunshine deluxe: brighter days ahead, and directed by frequent collaborators Christian Breslauer and Ariana Grande, this film explores love, loss, growth, and the fleeting nature of memory, delivering a heartfelt cinematic experience that closes the door on this eternal sunshine album era.\n\n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow Ariana Grande\nInstagram: https://www.instagram.com/arianagrande/\nFacebook: https://www.facebook.com/arianagrande \nTikTok: https://www.tiktok.com/@arianagrande\nWebsite: https://www.arianagrande.com/ \n \n#arianagrande #brighterdaysahead #eternalsunshine\n\n\nMusic video by Ariana Grande performing brighter days ahead.© 2025 Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yj1Kvhog6PU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yj1Kvhog6PU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yj1Kvhog6PU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/yj1Kvhog6PU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/yj1Kvhog6PU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "tags": ["Ariana Grande", "Republic Records", "Pop"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Ariana Grande - brighter days ahead",
+          "description": "The official ‘brighter days ahead’ short film by Christian Breslauer and Ariana Grande. \n\nListen to & download ‘eternal sunshine deluxe: brighter days ahead’: https://arianagrande.lnk.to/esdeluxe\n\nSeventy years have passed since we last saw Peaches (played by Ariana Grande). Now, she finds herself once again in the waiting room of Brighter Days Inc., but this time for a very different appointment. The company now offers advanced memory restoration, allowing her to revisit a curated selection of moments from her life—both cherished and painful. As Peaches embarks on this immersive journey, we watch her confront and heal certain wounds (personal and professional alike) that have made her who she is today. She reconnects with her younger self who had been patiently in the wings for over a decade, as she works her way through the challenges of fame (she is the daughter of the very famous Brighter Days Inc. founder/doctor), personal sensationalism (resulting in being torn apart by stray cats), and generational trauma. In the end, with the help of her loved ones and art, she is able to come home to herself. She would do anything to experience it all again. However, there’s one catch: once a memory is relived, it is erased forever.\n \nSet against the music of eternal sunshine deluxe: brighter days ahead, and directed by frequent collaborators Christian Breslauer and Ariana Grande, this film explores love, loss, growth, and the fleeting nature of memory, delivering a heartfelt cinematic experience that closes the door on this eternal sunshine album era.\n\n►Subscribe to Ariana Grande: http://ArianaGrande.lnk.to/subscribe\n \n►Follow Ariana Grande\nInstagram: https://www.instagram.com/arianagrande/\nFacebook: https://www.facebook.com/arianagrande \nTikTok: https://www.tiktok.com/@arianagrande\nWebsite: https://www.arianagrande.com/ \n \n#arianagrande #brighterdaysahead #eternalsunshine\n\n\nMusic video by Ariana Grande performing brighter days ahead.© 2025 Republic Records, a division of UMG Recordings, Inc."
+        }
+      },
+      "contentDetails": {
+        "duration": "PT26M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AI",
+            "AL",
+            "AM",
+            "AO",
+            "AQ",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AX",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BQ",
+            "BR",
+            "BS",
+            "BT",
+            "BV",
+            "BW",
+            "BZ",
+            "CA",
+            "CC",
+            "CD",
+            "CF",
+            "CG",
+            "CH",
+            "CI",
+            "CK",
+            "CL",
+            "CM",
+            "CN",
+            "CO",
+            "CR",
+            "CU",
+            "CV",
+            "CW",
+            "CX",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "EH",
+            "ER",
+            "ES",
+            "ET",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GF",
+            "GG",
+            "GH",
+            "GI",
+            "GL",
+            "GM",
+            "GN",
+            "GP",
+            "GQ",
+            "GR",
+            "GS",
+            "GT",
+            "GU",
+            "GW",
+            "GY",
+            "HK",
+            "HM",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IM",
+            "IN",
+            "IQ",
+            "IR",
+            "IS",
+            "IT",
+            "JE",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MF",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MM",
+            "MN",
+            "MO",
+            "MP",
+            "MQ",
+            "MR",
+            "MS",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NU",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PM",
+            "PN",
+            "PR",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SD",
+            "SE",
+            "SG",
+            "SH",
+            "SI",
+            "SJ",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SO",
+            "SR",
+            "ST",
+            "SV",
+            "SX",
+            "SY",
+            "SZ",
+            "TC",
+            "TD",
+            "TF",
+            "TG",
+            "TH",
+            "TJ",
+            "TK",
+            "TL",
+            "TM",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "VA",
+            "VC",
+            "VE",
+            "VG",
+            "VI",
+            "VN",
+            "VU",
+            "WF",
+            "WS",
+            "YE",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4133991",
+        "likeCount": "501584",
+        "favoriteCount": "0",
+        "commentCount": "32225"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FvHwBV1U-hmw9Gy4JFbXvq8OGEI",
+      "id": "lb-B2zi9DtY",
+      "snippet": {
+        "publishedAt": "2025-03-29T15:01:02Z",
+        "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+        "title": "We need to talk",
+        "description": "https://www.joyridesweets.com/\nhttps://www.joyridesweets.com/\nhttps://www.joyridesweets.com/\n\n💜HUGE THANK YOU TO THE GENIUSES THAT HELPED MAKE THIS💜\nDirected by: Curtis Nicotra, Lucas Nicotra (@Sticks )\nWritten by: Curtis Nicotra, Lucas Nicotra (@Sticks  & Ryan Trahan\nProduction by: Sticks x NO1 Creative\nProducer: Austin McCormick\nCreative Producer: Drew Lorenz \nLead Cast: Ryan Trahan\nSupporting Cast: Drew Lorenz, Isaac Carlton, Austin McCormick\nDirector of Photography: Townsend Dixen\n1st Assistant Camera: Rebecca Baliko\nEditors/Colorists: Curtis & Lucas Nicotra\nProduction Designer: Mark Vogt - MacGuffin Makers\nAudio: Oliver Boon\nSound Design & Mix: António Miguel Santos\nArt Director: Emily Henninger\nSet Dresser: Camila Pons\nGaffer: Austin Bland\nVisual Effects by: Morph, Alien Media\nVFX Supervisor: Andrew Baer\nCG Artists: Owen Brewster, Stephen Burchell, Tom Cowles, Garrison Keeton, Ben McCloskey\nVisual Effects: Philip Bruinette, Noah Guardado, Austin MacFarlane, Lachlan MacFarlane, Ethan Montgomery\nBTS: Christian Chambers\nProduction Assistant: Preston Green",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lb-B2zi9DtY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lb-B2zi9DtY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lb-B2zi9DtY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lb-B2zi9DtY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lb-B2zi9DtY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryan Trahan",
+        "tags": [
+          "Ryan",
+          "Trahan",
+          "we need to talk",
+          "joyride",
+          "gummy buster",
+          "movie"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "We need to talk",
+          "description": "https://www.joyridesweets.com/\nhttps://www.joyridesweets.com/\nhttps://www.joyridesweets.com/\n\n💜HUGE THANK YOU TO THE GENIUSES THAT HELPED MAKE THIS💜\nDirected by: Curtis Nicotra, Lucas Nicotra (@Sticks )\nWritten by: Curtis Nicotra, Lucas Nicotra (@Sticks  & Ryan Trahan\nProduction by: Sticks x NO1 Creative\nProducer: Austin McCormick\nCreative Producer: Drew Lorenz \nLead Cast: Ryan Trahan\nSupporting Cast: Drew Lorenz, Isaac Carlton, Austin McCormick\nDirector of Photography: Townsend Dixen\n1st Assistant Camera: Rebecca Baliko\nEditors/Colorists: Curtis & Lucas Nicotra\nProduction Designer: Mark Vogt - MacGuffin Makers\nAudio: Oliver Boon\nSound Design & Mix: António Miguel Santos\nArt Director: Emily Henninger\nSet Dresser: Camila Pons\nGaffer: Austin Bland\nVisual Effects by: Morph, Alien Media\nVFX Supervisor: Andrew Baer\nCG Artists: Owen Brewster, Stephen Burchell, Tom Cowles, Garrison Keeton, Ben McCloskey\nVisual Effects: Philip Bruinette, Noah Guardado, Austin MacFarlane, Lachlan MacFarlane, Ethan Montgomery\nBTS: Christian Chambers\nProduction Assistant: Preston Green"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6M59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2212497",
+        "likeCount": "158147",
+        "favoriteCount": "0",
+        "commentCount": "15251"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vf2DZa3eE82Tc0ykESn815LcfWI",
+      "id": "BblU85uT_5s",
+      "snippet": {
+        "publishedAt": "2025-03-28T23:45:59Z",
+        "channelId": "UCJbYdyufHR-cxOuY96KIoqA",
+        "title": "AMP $3M CAR COLLECTION",
+        "description": "TONE SHOP RE-STOCKED  ➡️  https://tone.shop  \n\nFOLLOW 🌐 TONE 🌐 ON SOCIALS\nhttps://www.instagram.com/toneexclusive/\nhttps://x.com/TONEexclusive\nhttps://www.tiktok.com/@toneexclusive?lang=en\n\nGet AMP streetwear https://amp.shop ⚡️⚡️\n\nAMP AMP AMP AMP\nhttps://www.snapchat.com/add/ampexclusive\nhttps://www.tiktok.com/@ampexclusive6\nhttps://www.instagram.com/ampexclusive\nhttps://twitter.com/ampexclusive\n\n⚡️⚡️ AMP ⚡️⚡️\n\n⚡️Agent aka Agent 00\nhttps://www.youtube.com/@Agent00everything\nhttps://www.instagram.com/callmeagentzero/\nhttps://twitter.com/CallMeAgent00\n\n⚡️Chris aka chrisnxtdoor\nhttps://www.youtube.com/@Chrisnxtdoor\nhttps://www.instagram.com/chrisnxtdoor_/\nhttps://twitter.com/Chrisnxtdoor_\n\n⚡️Davis aka ImDavisss\nhttps://www.youtube.com/@ItsDavisss\nhttps://www.instagram.com/imdavisssyt/\nhttps://twitter.com/imdavisss\n\n⚡️Duke aka Duke Dennis\nhttps://www.youtube.com/@DukeDennisAMP\nhttps://www.instagram.com/dukedennis/\nhttps://twitter.com/ImDukeDennis\n\n⚡️Fanum aka JustFanum\nhttps://www.youtube.com/@FanumLive\nhttps://www.instagram.com/elfanum/\nhttps://twitter.com/FanumTV\n\n⚡️ Kai aka Kai Cenat\nhttps://www.youtube.com/@KaiCenatLive\nhttps://www.instagram.com/kaicenat/\nhttps://twitter.com/KaiCenat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BblU85uT_5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BblU85uT_5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BblU85uT_5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BblU85uT_5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BblU85uT_5s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AMP",
+        "tags": [
+          "KAI CENAT",
+          "DUKE DENNIS",
+          "AGENT 00",
+          "CHRISNXTDOOR",
+          "FANUM",
+          "IMDAVISSS",
+          "ANY MEANS POSSIBLE",
+          "AMP CAR COLLECTION",
+          "AMP'S CARS",
+          "WHAT CARS DOES AMP HAVE?",
+          "CAR COLLECTION",
+          "DUKE CRASHES URUS",
+          "KAI CENATS CARS",
+          "WHAT DOES AMP DRIVE?",
+          "AMP 3M CAR COLLECTION",
+          "LAMB BROS",
+          "KAI CENAT URUS",
+          "DUKE DENNIS URUS",
+          "AGENT 00 FERRARI",
+          "AMP HELLCAT"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "AMP $3M CAR COLLECTION",
+          "description": "TONE SHOP RE-STOCKED  ➡️  https://tone.shop  \n\nFOLLOW 🌐 TONE 🌐 ON SOCIALS\nhttps://www.instagram.com/toneexclusive/\nhttps://x.com/TONEexclusive\nhttps://www.tiktok.com/@toneexclusive?lang=en\n\nGet AMP streetwear https://amp.shop ⚡️⚡️\n\nAMP AMP AMP AMP\nhttps://www.snapchat.com/add/ampexclusive\nhttps://www.tiktok.com/@ampexclusive6\nhttps://www.instagram.com/ampexclusive\nhttps://twitter.com/ampexclusive\n\n⚡️⚡️ AMP ⚡️⚡️\n\n⚡️Agent aka Agent 00\nhttps://www.youtube.com/@Agent00everything\nhttps://www.instagram.com/callmeagentzero/\nhttps://twitter.com/CallMeAgent00\n\n⚡️Chris aka chrisnxtdoor\nhttps://www.youtube.com/@Chrisnxtdoor\nhttps://www.instagram.com/chrisnxtdoor_/\nhttps://twitter.com/Chrisnxtdoor_\n\n⚡️Davis aka ImDavisss\nhttps://www.youtube.com/@ItsDavisss\nhttps://www.instagram.com/imdavisssyt/\nhttps://twitter.com/imdavisss\n\n⚡️Duke aka Duke Dennis\nhttps://www.youtube.com/@DukeDennisAMP\nhttps://www.instagram.com/dukedennis/\nhttps://twitter.com/ImDukeDennis\n\n⚡️Fanum aka JustFanum\nhttps://www.youtube.com/@FanumLive\nhttps://www.instagram.com/elfanum/\nhttps://twitter.com/FanumTV\n\n⚡️ Kai aka Kai Cenat\nhttps://www.youtube.com/@KaiCenatLive\nhttps://www.instagram.com/kaicenat/\nhttps://twitter.com/KaiCenat"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19M39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1679511",
+        "likeCount": "116943",
+        "favoriteCount": "0",
+        "commentCount": "2709"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OgSQeJa65qfIwyjZ71ba7fsRAXg",
+      "id": "byCGd7yZ2zc",
+      "snippet": {
+        "publishedAt": "2025-03-29T14:00:07Z",
+        "channelId": "UCKaCalz5N5ienIbfPzEbYuA",
+        "title": "My Daughter SNEAKS OUT of the House AT MIDNIGHT",
+        "description": "I can't believe she did this! Get your Ninja Kidz Tour tickets: https://www.ninja-kidzlive.com. Join our FREE text thread to get BTS photos and videos: https://joinsubtext.com/teamsalish! \n\nI think Salish got this idea from the @nenfam: https://youtu.be/pZDTJrLwMYs?si=lEFTww7tQdMee365\n\nSUBSCRIBE:\nSalish and dad: https://www.youtube.com/@jordanmatter  \nSalish vlogs: https://www.youtube.com/@salishmatter\nPayton: https://www.youtube.com/@PaytonDelu\nNidal: https://www.youtube.com/@NidalWonderOfficial\nSean Does Magic: https://www.youtube.com/@SeanDoesMagic\n\nFollow us on Instagram:\nSalish: https://www.instagram.com/salishmatter\nMe: https://www.instagram.com/jordanmatter\n\nThumbnail design: @aamirdzn (twitter)\n\nSubscribe to my Photo Challenges channel to see FATHER VS DAUGHTER: https://www.youtube.com/channel/UCvXY38EnvMGZCDBNMmbJBzQ\n\nMERCH: https://shopjordanmatter.com/\n\nBusiness Inquiries: info@jordanmatter.com\n\nMusic licensed through Artlist and Epidemic Sound\n\nWow, if you're still reading you are awesome! BOOOMMMM!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/byCGd7yZ2zc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/byCGd7yZ2zc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/byCGd7yZ2zc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/byCGd7yZ2zc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/byCGd7yZ2zc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jordan Matter",
+        "tags": [
+          "salish matter",
+          "payton delu",
+          "chase",
+          "prize",
+          "hide and seek",
+          "sneaking out",
+          "sleepover",
+          "sean does magic",
+          "nidal wonder",
+          "nalish"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "My Daughter SNEAKS OUT of the House AT MIDNIGHT",
+          "description": "I can't believe she did this! Get your Ninja Kidz Tour tickets: https://www.ninja-kidzlive.com. Join our FREE text thread to get BTS photos and videos: https://joinsubtext.com/teamsalish! \n\nI think Salish got this idea from the @nenfam: https://youtu.be/pZDTJrLwMYs?si=lEFTww7tQdMee365\n\nSUBSCRIBE:\nSalish and dad: https://www.youtube.com/@jordanmatter  \nSalish vlogs: https://www.youtube.com/@salishmatter\nPayton: https://www.youtube.com/@PaytonDelu\nNidal: https://www.youtube.com/@NidalWonderOfficial\nSean Does Magic: https://www.youtube.com/@SeanDoesMagic\n\nFollow us on Instagram:\nSalish: https://www.instagram.com/salishmatter\nMe: https://www.instagram.com/jordanmatter\n\nThumbnail design: @aamirdzn (twitter)\n\nSubscribe to my Photo Challenges channel to see FATHER VS DAUGHTER: https://www.youtube.com/channel/UCvXY38EnvMGZCDBNMmbJBzQ\n\nMERCH: https://shopjordanmatter.com/\n\nBusiness Inquiries: info@jordanmatter.com\n\nMusic licensed through Artlist and Epidemic Sound\n\nWow, if you're still reading you are awesome! BOOOMMMM!!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT32M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3287573",
+        "likeCount": "64352",
+        "favoriteCount": "0",
+        "commentCount": "12776"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
